@@ -245,3 +245,14 @@ This will:
 - MongoDB `_id` is always serialized to string before passing to client components
 
 
+![Home](<Screenshot 2026-05-02 160006.png>)
+![Home](<Screenshot 2026-05-02 160024.png>)
+![About](<Screenshot 2026-05-02 160045.png>)
+![Products](<Screenshot 2026-05-02 160056.png>)
+![Product Details](<Screenshot 2026-05-02 160123.png>)
+![Admin](<Screenshot 2026-05-02 160140.png>)
+![Edit Product](<Screenshot 2026-05-02 160200.png>)
+![Add Product](<Screenshot 2026-05-02 160225.png>)
+![Login](<Screenshot 2026-05-02 160247.png>)
+![Register](image.png)
+![Cart](image-1.png)
