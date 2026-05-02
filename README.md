@@ -9,7 +9,6 @@ A modern, full-stack e-commerce application built with **Next.js 15**, **MongoDB
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-7c3aed?style=for-the-badge&logo=vercel)](https://ecommerce-next-task3-git-main-hebaades-projects.vercel.app)
 
 > Deployed on **Vercel** — [https://ecommerce-next-task3-git-main-hebaades-projects.vercel.app](https://ecommerce-next-task3-git-main-hebaades-projects.vercel.app)
-
 ---
 ## 🚀 Tech Stack
 
