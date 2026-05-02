@@ -25,12 +25,11 @@ export default function Navbar() {
   const links = [
     { href: "/", label: "Home" },
     { href: "/about", label: "About" },
-    { href: "/products", label: "Products" }
+    { href: "/products", label: "Products" },
+    { href: "/admin", label: "Admin" }
   ];
 
-  if (session?.user) {
-    links.push({ href: "/admin", label: "Admin" });
-  }
+ 
 
   return (
     <>
